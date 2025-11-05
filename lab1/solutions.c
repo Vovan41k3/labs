@@ -1,4 +1,3 @@
-Илья, [22.10.2025 20:46]
 #include "lab1.h"
 #include <math.h>
 #include <stdio.h>
@@ -248,7 +247,6 @@ int count_digits(int n)
 {
     int count = 0;
 
-Илья, [22.10.2025 20:46]
 if (n == 0)
     {
         return 1;
